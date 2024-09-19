@@ -9,3 +9,7 @@ Rule 9 : product of roman numerals in the string
 Rule 18 : sum of atomic numbers in the string
 
 It's just a project for fun, so if there are any copyright issues, please feel free to let me know!
+
+## special thanks
+The Password Game : https://neal.fun/password-game/
+Periodic-Table-JSON : https://github.com/Bowserinator/Periodic-Table-JSON
