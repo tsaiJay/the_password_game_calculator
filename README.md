@@ -12,4 +12,5 @@ It's just a project for fun, so if there are any copyright issues, please feel f
 
 ## special thanks
 The Password Game : https://neal.fun/password-game/
+
 Periodic-Table-JSON : https://github.com/Bowserinator/Periodic-Table-JSON
