@@ -10,6 +10,11 @@ This calculator is specifically designed for rules 5, 9, and 18.
 
 It's just a project for fun, so if there are any copyright issues, please feel free to let me know!
 
+## Execution
+```
+python main.py
+```
+
 ## special thanks
 The Password Game : https://neal.fun/password-game/
 
